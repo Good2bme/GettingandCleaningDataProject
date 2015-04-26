@@ -14,6 +14,17 @@ A more indepth description the data is provided in the link below:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+ The following is a list of all files used from the downloaded zip file which were deemed necessary to create the tidy dataset :
+ 
+ * features.txt 
+ * activity_labels.txt 
+ * train/X_train.txt 
+ * train/y_train.txt
+ * train/subject_train.txt
+ * test/X_test.txt 
+ * test/y_test.txt 
+ * test/subject_test.txt
+
 ####  Requirements for running the run_anaylis.R
 
  The follow are a list of assumptions which are required inorder to successful execute the run_anaylis.R script.
