@@ -44,23 +44,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
  * Step 4 - Appropriately labelling the data set with descriptive variable names. 
  * Step 5 - From the dataset in step 4, creating a tidy data set with the average of each variable for each activity and each subject.
  
-  The script follows the order of the list above and is annotated  accordingly for ease of understanding.
+ The script follows the order of the list above and is annotated  accordingly for ease of understanding.
  
-##### Data Loading
- In this section all the files deemed necessary to complete the assignment are loaded for the data set downloaded. 
- 
- The following is a list of all files used from the downloaded files:
- 
- * features.txt 
- * activity_labels.txt 
- * train/X_train.txt 
- * train/y_train.txt
- * train/subject_train.txt
- * test/X_test.txt 
- * test/y_test.txt 
- * test/subject_test.txt
- 
-###### Steps 1-5 are heavily annotated
+
 
 
 
